@@ -1,0 +1,60 @@
+#bg{
+    background-color: rgb(223, 223, 253);
+    background-size:cover ;
+}
+.navbar-text{
+    font-size: 5px;
+    font-weight: bold;
+    color: black;
+}
+.nav-link:hover{
+    background: yellow;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.dropdown:hover{
+    background: yellow;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.dropdown .dropdown-item:hover{
+    background: yellow;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.jumbotron{
+    background-image: url(assets/img/sekolah/sekolah1.jpg);
+    background-size: cover;
+    height: 400px;
+}
+.sambutan{
+    text-align: center;
+    background-color: transparent;
+}
+.sambutan .card-body{
+    background:rgb(121, 255, 255);
+}
+.card-body a:hover{
+    background-color: cyan;
+    font-size: 16px;
+    font-weight: bolder;
+}
+footer{
+    background-color: darkcyan;
+}
+.footer-one li{
+    list-style-type: none;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.footer-one li:hover{
+    font-weight: bold;
+    font-size: 20px;
+}
+.footer-one a{
+    color: black;
+    text-decoration: none;
+}
+.footer-one a:hover{
+    color: yellow;
+}
